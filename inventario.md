@@ -1,5 +1,6 @@
 2013449
 1201199
-./processori.md
-./schede_madri.md
+## componenti
+./componenti/processori.md
+./componenti/schede_madri.md
 Elettronica Padovana
