@@ -3,4 +3,5 @@
 ## componenti
 ./componenti/processori.md
 ./componenti/schede_madri.md
+## periferiche
 Elettronica Padovana
